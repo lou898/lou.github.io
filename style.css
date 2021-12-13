@@ -1,0 +1,71 @@
+
+:root {
+  --background-primary: rgb(251, 232, 166)
+
+}
+
+body {
+
+}
+
+.title-container {
+  height: 40vh;
+  background-color: var(--background-primary);
+}
+
+.title-hello {
+  font-family: 'Roboto Mono', monospace;
+  font-size: 10rem;
+  font-weight: 700;
+
+}
+
+.title-name {
+  color: rgb(0, 0, 0);
+  background-colour: #fbe8a6;
+
+  font-family: 'Roboto Mono', monospace;
+  font-size: 5rem;
+  font-weight: 700;
+  font-style: italic;
+}
+
+.about-me-container {
+  background-color: rgb(244, 151, 108);
+
+  font-family: 'Roboto Mono', monospace;
+  font-size: 5rem;
+
+  width: 100vw;
+  height: 40vh;
+
+}
+
+.about-me-image {
+  width: 18vw;
+  height: 18vw;
+
+  border-radius: 100%;
+}
+
+.about-partnership-image {
+width: 18vw;
+height: 18vw;
+
+border-radius: 100%;
+}
+
+.our-affiliations {
+  background color: rgb(25, 27, 103);
+
+  font-family: 'Roboto Mono', monospace;
+  font-size: 8rem;
+  font-style: italic;
+  font-weight: 1000;
+
+position relative;
+bottom: 10rem;
+
+  width: 100vw;
+  height:27vh;
+}
